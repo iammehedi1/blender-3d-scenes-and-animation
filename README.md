@@ -1,13 +1,17 @@
-# Blender-3D-design-and-animation
-In my CSI 422: Computer Graphics Laboratory Course, I,ve learnt to use blender for 3d designs and animations. Here are few designs which I created in my learning phase
+# Blender 3D Scenes and Character Animation
 
-To use this animations, you have to download BLENDER SOFTWARE in your computer. 
-Link : https://www.blender.org/download/
+Two Blender studies from CSI 422 Computer Graphics Laboratory explore interior scene design and character motion.
 
-Then you have to download the blend file i've attached and you are ok to go.
+## Interior scene
 
-Room Design: 
-![room](https://user-images.githubusercontent.com/48856522/135417589-18e391ed-5461-426a-b86b-d7bbab3a31fd.png)
+[Open the Blender scene](3d%20room%20design.blend)
 
-Animation( Dance + Kick):
-![animation](https://user-images.githubusercontent.com/48856522/135417668-136ec25d-e9ff-4ee9-af77-4705864983af.png)
+![Interior preview](room.png)
+
+## Character motion
+
+[Open the dance and football kick animation](3d%20character%20dance%20%26%20kick%20football.blend)
+
+![Character animation preview](animation.png)
+
+Open the source files with [Blender](https://www.blender.org/download/).
